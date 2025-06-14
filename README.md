@@ -33,7 +33,7 @@ To run this site locally:
 
 Feel free to reach out to me:
 
-- [LinkedIn: ](https://www.linkedin.com/in/the-seanmiller)
+- [LinkedIn](https://www.linkedin.com/in/the-seanmiller)
 
 ---
 
