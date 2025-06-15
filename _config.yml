@@ -1,0 +1,8 @@
+# _config.yml
+title: Miller Tek Works
+author: Your Name
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my portfolio! Here you'll find my projects, skills, and contact information.
+
+# Select your theme
+theme: jekyll-theme-minimal
